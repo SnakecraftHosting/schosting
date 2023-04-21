@@ -19,7 +19,7 @@ bedrock:
   clone-remote-port: true
   # The MOTD that will be broadcasted to Minecraft: Bedrock Edition clients. This is irrelevant if "passthrough-motd" is set to true
   # If either of these are empty, the respective string will default to "Geyser"
-  motd1: "Geyser Server"
+  motd1: "Snakecraft Hosting Geyser Server"
   motd2: "Server powered by Snakecraft Hosting."
   # The Server Name that will be sent to Minecraft: Bedrock Edition clients. This is visible in both the pause menu and the settings menu.
   server-name: "Snakecraft Hosting"
